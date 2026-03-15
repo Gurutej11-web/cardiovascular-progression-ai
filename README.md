@@ -1,1 +1,0 @@
-# cardiovascular-progression-ai
