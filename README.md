@@ -28,9 +28,3 @@ The dataset used in this project is `cardiac_failure_processed.csv`, which conta
 *   **Advanced Evaluation Metrics:** Investigate additional evaluation metrics and techniques, such as ROC curves and AUC, especially if dealing with imbalanced classes.
 *   **Deployment:** Consider deploying the trained model as a web service or API for real-time predictions.
 *   **External Validation:** Test the model's performance on independent external datasets to ensure generalization.
-"""
-
-with open("README.md", "w") as f:
-    f.write(readme_content)
-
-print("README.md created successfully.")
